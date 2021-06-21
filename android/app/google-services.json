@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408424020887",
+    "project_id": "txpace-857e8",
+    "storage_bucket": "txpace-857e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408424020887:android:8ad3b86313eaa9e8ae62d2",
+        "android_client_info": {
+          "package_name": "com.txpace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408424020887-asahi97nmk52uersr0oc89rsl563jpqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.txpace",
+            "certificate_hash": "45c83cb1b2203913461e97ac151a028dd07c903a"
+          }
+        },
+        {
+          "client_id": "408424020887-t9uu9ps7peentoen50sk46us25br2vbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqBo00xUgK9bC09AqU87iAVJKlolwi0Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408424020887-t9uu9ps7peentoen50sk46us25br2vbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
